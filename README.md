@@ -1,5 +1,11 @@
 # 🎓 RAG eduroam FAQ - Sistema de Perguntas e Respostas
 
+![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub Stars](https://img.shields.io/github/stars/edeunix/rag-eduroam-faq.svg)
+![GitHub Forks](https://img.shields.io/github/forks/edeunix/rag-eduroam-faq.svg)
+![Issues](https://img.shields.io/github/issues/edeunix/rag-eduroam-faq.svg)
+
 Sistema de **RAG (Retrieval Augmented Generation)** para responder perguntas sobre o serviço eduroam da RNP, utilizando técnicas de busca semântica e processamento de linguagem natural.
 
 ## 📋 Sobre o Projeto
